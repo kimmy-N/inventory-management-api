@@ -234,6 +234,7 @@ This project uses the **OpenFoodFacts Open API** (no authentication required):
 ---
 
 ## 👩‍💻 Author
+**KIMBERLY AYIAKI**
 
 Built as part of the Python REST API with Flask — Inventory Management System lab.
 
